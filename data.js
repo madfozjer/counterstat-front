@@ -1572,7 +1572,7 @@ export default {
     nickname: "makazze",
     href: "https://www.hltv.org/player/22673/makazze",
     role: "Entry",
-    nationality: "Kosovo",
+    nationality: "Republic of Kosovo",
     image:
       "https://img-cdn.hltv.org/playerbodyshot/yLWwlPxfL7RWO09vXVByXg.png?ixlib=java-2.1.0&w=400&s=8cf7570ce034ee42043bc4454f23db6c",
     age: "18",
